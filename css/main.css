@@ -21,6 +21,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
+  color: #76a500;
 }
 
 .icon {
@@ -36,12 +37,6 @@ a {
   top: 0;
   width: 100%;
   fill: currentColor;
-}
-
-a {
-  display: flex;flex-direction: column;
-  align-items: center;
-  color: #76a500;
 }
 
 a:hover,
